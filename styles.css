@@ -17,3 +17,10 @@ h1,h3{
 h2{
     color: cadetblue;
 }
+
+.profileImg{
+
+    width: 130px;
+    height: 150px;
+    border-radius: 15%;
+}
